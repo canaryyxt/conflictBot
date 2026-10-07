@@ -1,2 +1,2 @@
-# conflictBot
+#conflictBot
 конфликт бот
